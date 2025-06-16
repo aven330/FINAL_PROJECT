@@ -1,7 +1,7 @@
 """
 DSC 20 Project
-Name(s): Andrew Zaletski, Akhil Venkat
-PID(s):  A18356609, A18471614
+Name(s): [REDACTED]
+PID(s):  [REDACTED]
 Sources: Lecture slides
 """
 
