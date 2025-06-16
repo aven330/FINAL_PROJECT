@@ -1,5 +1,5 @@
 """
-DSC 20 Project
+FINAL PROJECT
 Name(s): [REDACTED]
 PID(s):  [REDACTED]
 Sources: Lecture slides
